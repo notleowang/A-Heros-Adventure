@@ -1,5 +1,7 @@
 # CPSC 210 Personal Project
 
+This is the first personal project I made, using Java and JavaSwing.
+
 ## A 2D Platformer Game by Leo Wang
 
 ### What will the application do?  
