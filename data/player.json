@@ -1,0 +1,56 @@
+{
+    "gotSword2": false,
+    "sword": {
+        "weaponDamage": 45,
+        "nm": "Iron Sword"
+    },
+    "dagger": {
+        "weaponDamage": 15,
+        "nm": "Stone Dagger"
+    },
+    "golem": {
+        "isAlive": true,
+        "name": "Golem",
+        "health": 200,
+        "attackDamage": 45,
+        "armour": 0
+    },
+    "zombie": {
+        "isAlive": true,
+        "name": "Zombie",
+        "health": 20,
+        "attackDamage": 10,
+        "armour": 0
+    },
+    "gotDagger": false,
+    "gotSword": false,
+    "darkSpirit": {
+        "isAlive": false,
+        "name": "Dark Spirit",
+        "health": 0,
+        "attackDamage": 5,
+        "armour": 0
+    },
+    "dragon": {
+        "isAlive": true,
+        "name": "Dragon",
+        "health": 400,
+        "attackDamage": 90,
+        "armour": 0
+    },
+    "sword2": {
+        "weaponDamage": 400,
+        "nm": "Excalibur"
+    },
+    "player": {
+        "name": "",
+        "health": 100,
+        "collectibles": [],
+        "attackDamage": 5,
+        "armour": 0
+    },
+    "armour": {
+        "armourArmour": 0,
+        "nm": "Wooden Armour"
+    }
+}
