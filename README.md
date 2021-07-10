@@ -1,6 +1,6 @@
 # Personal Project
 
-This is the first personal project I made, using Java and JavaSwing. During my time working on this project, I became familiar with coding in Java and understanding different libraries. Working on this project was a lot of fun, and although it was not the best product, I think it was a great start to beginning my programming experience.
+This is the first personal project I made, using Java and JavaSwing. For the IDE, I used IntelliJ IDEA. During my time working on this project, I became familiar with coding in Java and understanding different libraries. Working on this project was a lot of fun, and although it was not the best product, I think it was a great start to beginning my programming experience.
 
 ## A 2D Platformer Game by Leo Wang
 
