@@ -46,6 +46,7 @@ something as fundamental as a text-based game will help me learn how to approach
 - As a user, I want to be able to save my progress of defeating enemies to file.
 - As a user, I want to be able to load my progress of defeating enemies to file. 
 
+<!--
 ## Phase 4: Task 2
 
 Included a type hierarchy.  
@@ -71,5 +72,5 @@ to the point that there are extensive lines of code in that class, making it ext
 hard to read and navigate. If I had more time,
 I definitely would've made more classes to reduce the amount of coupling and avoid
 the difficulties of finding methods within the Game class.
-
+-->
 
